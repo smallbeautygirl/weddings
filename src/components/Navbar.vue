@@ -8,7 +8,7 @@
   >
     <div class="container">
       <a class="navbar-brand" href="#page-top"
-        ><img :src="require('@/assets/img/logo-transparent-2.png')" alt="..."
+        ><img :src="require('@/assets/img/logo-transparent-3.png')" alt="..."
       /></a>
       <button
         class="navbar-toggler"
