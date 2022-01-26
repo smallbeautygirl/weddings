@@ -4,7 +4,7 @@ import router from "./router";
 import store from "./store";
 import vuetify from "./plugins/vuetify";
 import { loadFonts } from "./plugins/webfontloader";
-import "./assets/css/app.css";
+
 import "./assets/css/styles.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 // import '@google-spreadsheet';
