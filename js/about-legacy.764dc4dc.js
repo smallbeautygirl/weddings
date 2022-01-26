@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkwedding"]=self["webpackChunkwedding"]||[]).push([[443],{2398:function(n,e,u){u.r(e),u.d(e,{default:function(){return l}});var a=u(6252),r={class:"about"},t=(0,a._)("h1",null,"This is an about page",-1),i=[t];function s(n,e){return(0,a.wg)(),(0,a.iD)("div",r,i)}var c=u(3744);const d={},f=(0,c.Z)(d,[["render",s]]);var l=f}}]);
-//# sourceMappingURL=about-legacy.764dc4dc.js.map
